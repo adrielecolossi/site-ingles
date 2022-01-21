@@ -1,0 +1,40 @@
+.pag{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+
+}
+
+.cards{
+width: 10%;
+height:20%;
+background: #DEDEE0;
+border-radius: 20px;
+padding: 1%;
+margin:3%
+}
+
+footer{
+    margin-top: 30%
+}
+
+.title{
+    background-color: #FF9FB2;
+   height: 50px;
+   display: flex;
+   align-items: center;
+  justify-content: center;
+}
+
+.id-materiass{
+    font-size: 1000px;
+}
+
+.body-card{
+    background-color: #0ACDFF;
+    height: 80px;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+}
