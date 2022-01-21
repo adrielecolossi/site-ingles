@@ -28,7 +28,8 @@
     "react-phone-number-input": "^3.1.25",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2"
+    "web-vitals": "^1.1.2",
+     "homepage": "https://adrielecolossi.github.io/site-ingles/",
   },
   "scripts": {
     "start": "react-scripts start",
